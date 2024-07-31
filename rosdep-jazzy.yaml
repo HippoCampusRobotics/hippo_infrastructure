@@ -1,5 +1,7 @@
 hippo_full:
   ubuntu: [ros-jazzy-hippo-full]
+hippo_robot:
+  ubuntu: [ros-jazzy-hippo-robot]
 hippo_common:
   ubuntu: [ros-jazzy-hippo-common]
 

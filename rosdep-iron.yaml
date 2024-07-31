@@ -1,5 +1,7 @@
 hippo_full:
   ubuntu: [ros-iron-hippo-full]
+hippo_robot:
+  ubuntu: [ros-iron-hippo-robot]
 hippo_common:
   ubuntu: [ros-iron-hippo-common]
 
