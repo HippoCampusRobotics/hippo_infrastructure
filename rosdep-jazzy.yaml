@@ -43,6 +43,8 @@ hardware:
   ubuntu: [ros-jazzy-hardware]
 dvl:
   ubuntu: [ros-jazzy-dvl]
+gantry:
+  ubuntu: [ros-jazzy-gantry]
 
 hippo_sim:
   ubuntu: [ros-jazzy-hippo-sim]
