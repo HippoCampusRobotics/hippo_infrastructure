@@ -26,6 +26,8 @@ state_estimation_msgs:
   ubuntu: [ros-jazzy-state-estimation-msgs]
 uvms_msgs:
   ubuntu: [ros-jazzy-uvms-msgs]
+visual_localization:
+  ubuntu: [ros-jazzy-visual-localization]
 
 px4_msgs:
   ubuntu: [ros-jazzy-px4-msgs]
