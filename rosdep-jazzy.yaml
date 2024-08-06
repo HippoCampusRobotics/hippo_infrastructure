@@ -47,6 +47,8 @@ dvl:
   ubuntu: [ros-jazzy-dvl]
 gantry:
   ubuntu: [ros-jazzy-gantry]
+gantry_gui:
+  ubuntu: [ros-jazzy-gantry-gui]
 
 hippo_sim:
   ubuntu: [ros-jazzy-hippo-sim]
