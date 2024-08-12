@@ -49,6 +49,8 @@ gantry:
   ubuntu: [ros-jazzy-gantry]
 gantry_gui:
   ubuntu: [ros-jazzy-gantry-gui]
+qualisys_bridge:
+  ubuntu: [ros-jazzy-qualisys-bridge]
 
 hippo_sim:
   ubuntu: [ros-jazzy-hippo-sim]
